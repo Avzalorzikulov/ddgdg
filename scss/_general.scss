@@ -1,0 +1,17 @@
+*,
+::before,
+::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'Catamaran', 'Arial',  sans-serif;
+}
+d
+img {
+    vertical-align: middle;
+    object-fit: contain;
+}
